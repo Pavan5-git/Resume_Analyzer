@@ -1,0 +1,13 @@
+streamlit
+groq
+sentence-transformers
+scikit-learn
+PyPDF2
+numpy
+pandas
+torch
+transformers
+requests
+pdfplumber
+nltk
+matplotlib
